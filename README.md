@@ -48,7 +48,7 @@ There is no need to split long lines to go under 100 characters. We live in 2016
 
 All braces are placed on the their own line. There will be no line of code in the line with the brace. Yes, it uses more space. No, it doesn't really matter. I prefer this because it creates seperation between the code inside the braces and the code outside it, and in my opinion this increases readability. 
 
-This is followed for everything. Functions, loops, conditionals... everything.
+This is followed for everything. Functions, loops, conditionals... everything. It doesn't matter if you can skip the braces, you always put them there. 
 
 There is one exception to the "no code on the brace's line" rule, and that is the do-while loop. The `while(...)` statement of the do-while loop can go on the same line as the closing brace.
 
